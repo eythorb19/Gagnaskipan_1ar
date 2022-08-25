@@ -1,0 +1,69 @@
+  current directory: root
+  Listing the contents of current directory,  root
+  Making subdirectory kennsla
+  Making subdirectory nam
+  Listing the contents of current directory,  root
+nam
+kennsla
+  switching to directory nam
+  current directory: nam
+  Making subdirectory GSKI
+  Listing the contents of current directory,  nam
+GSKI
+  switching to directory GSKI
+  current directory: GSKI
+  Making subdirectory PA1
+  Making subdirectory PA2
+  Making subdirectory PA3
+  Listing the contents of current directory,  GSKI
+PA3
+PA2
+PA1
+  switching to directory ..
+  Making subdirectory STRJAL
+  switching to directory STRJAL
+  current directory: STRJAL
+  Listing the contents of current directory,  STRJAL
+  Making subdirectory storu1
+  Making subdirectory storu2
+  Making subdirectory litlu1
+  Making subdirectory litlu2
+  Making subdirectory litlu3
+  Listing the contents of current directory,  STRJAL
+litlu3
+litlu2
+litlu1
+storu2
+storu1
+  switching to directory ..
+  switching to directory GSKI
+  current directory: GSKI
+  Listing the contents of current directory,  GSKI
+PA3
+PA2
+PA1
+  switching to directory ..
+  switching to directory STRJAL
+  current directory: STRJAL
+  Listing the contents of current directory,  STRJAL
+litlu3
+litlu2
+litlu1
+storu2
+storu1
+  switching to directory ..
+  switching to directory ..
+  Listing the contents of current directory,  root
+nam
+kennsla
+  switching to directory kennsla
+  current directory: kennsla
+  Making subdirectory forrit
+  Making subdirectory fyrirlestrar
+  Making subdirectory verkefni
+  Listing the contents of current directory,  kennsla
+verkefni
+fyrirlestrar
+forrit
+  switching to directory ..
+  switching to directory ..

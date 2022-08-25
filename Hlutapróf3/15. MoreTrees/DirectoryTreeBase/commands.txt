@@ -1,0 +1,38 @@
+ls
+mkdir kennsla
+mkdir nam
+ls
+cd nam
+mkdir GSKI
+ls
+cd GSKI
+mkdir PA1
+mkdir PA2
+mkdir PA3
+ls
+cd ..
+mkdir STRJAL
+cd STRJAL
+ls
+mkdir storu1
+mkdir storu2
+mkdir litlu1
+mkdir litlu2
+mkdir litlu3
+ls
+cd ..
+cd GSKI
+ls
+cd ..
+cd STRJAL
+ls
+cd ..
+cd ..
+ls
+cd kennsla
+mkdir forrit
+mkdir fyrirlestrar
+mkdir verkefni
+ls
+cd ..
+cd ..
